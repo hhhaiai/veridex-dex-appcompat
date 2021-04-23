@@ -48,5 +48,4 @@ tasks.withType(Javadoc) {
 
 
 dependencies {
-    implementation files('libs/AnalysysFangzhou_Android_SDK_V3.7.9.5.jar')
 }
