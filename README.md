@@ -1,4 +1,5 @@
-# testIVeridexDemo
+# veridex-dex-appcompat
+
 
 黑灰名单检测工程
 
