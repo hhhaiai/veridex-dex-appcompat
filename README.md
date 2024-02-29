@@ -6,7 +6,7 @@
 
 * 检测支持 DEX/APK, 如编译出个jar，需要使用命令转换 
 
-```shell
+``` shell
 dx --dex --output 目标名字.dex 需要检测名字.jar
 ```
 
